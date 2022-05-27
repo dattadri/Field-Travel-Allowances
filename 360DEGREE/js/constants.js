@@ -1,0 +1,9 @@
+const BASEURL="https://principleacs.net/Appraisal_Form_2022_API/public/";
+const GET_VALUES_URL="getFeedBack";
+const SUBMIT_VALUES_URL="insertFeedBack";
+const SUBMITTED=1;
+const CUSTOMER_FILE_TYPE="Customer";
+const SUPER_BOSS_FILE_TYPE="SuperBoss";
+const OTHER_DEPT_FILE_TYPE="OtherDept";
+const FINANCE_FILE_TYPE="Finance";
+const SUB_ORDINATE_FILE_TYPE="SubOrdinate";
